@@ -1,0 +1,9 @@
+delayedremovetag test.html |2
+removetag test.html |1
+number | number > temp2.html
+delayedremovetag temp2.html
+number temp2.html
+cat test.html |2
+noop
+delayedremovetag
+exit

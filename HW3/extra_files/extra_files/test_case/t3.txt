@@ -1,0 +1,14 @@
+removetag0 test.html | number |10
+removetag0 test.html |1
+noop
+noop
+cat test.html | removetag0
+cat test.html | removetag0 |3
+noop
+noop
+number | cat | cat |1
+number | cat | cat |3
+noop
+noop
+removetag0
+exit

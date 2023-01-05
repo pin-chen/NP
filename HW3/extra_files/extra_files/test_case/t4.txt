@@ -1,0 +1,12 @@
+cat <1
+name user1
+printenv PATH
+setenv PATH .
+name user2
+number test.html
+setenv PATH bin
+ls -al bin | cat
+number test.html
+name user3
+xyz
+exit
