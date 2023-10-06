@@ -2,7 +2,7 @@
 
 ## HW 0
 
-mutex lock
+mutex lock practice
 
 ## HW 1
 
@@ -30,7 +30,7 @@ Remote Working Ground Server (single-process concurrent)
 - chat
 - user pipe
   
-  pipe command outpur to other user
+  pipe command output to other user
   
 ### Part 3
 
@@ -40,7 +40,7 @@ Remote Working Ground Server (concurrent connection-oriented paradigm with share
 - chat
 - user pipe
   
-  pipe command outpur to other user
+  pipe command output to other user
   
 ## HW 3
 
@@ -71,3 +71,7 @@ part 1 + part 2 work in windows.
 SOCKS4/4a server
 
 ![image](https://user-images.githubusercontent.com/70376092/215985080-4f2fb958-ff0e-4488-ad1e-55fcf59e5644.png)
+
+Set up the firewall on HTTP Server for remote chat server so that it can only be accessed through SOCKS Sever.
+
+![image](https://github.com/pin-chen/NP/assets/70376092/484faa07-d9e6-413f-a957-e250c2747a8f)
